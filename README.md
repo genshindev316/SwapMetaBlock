@@ -14,7 +14,6 @@ Download https://github.com/genshindev316/SwapMetaBlock/blob/main/contracts/Swap
 
 If there is any question, please feel free to contact me!
 
-Email: genshindev316@gmail.com
 
 Skype: live:.cid.f9806077a25cfe22
 
