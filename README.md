@@ -8,7 +8,7 @@ But the smart contract is deployed on mainnet and tested already. It work well n
 
 ##Step by step to deploy the swap smart contract yourself.
 
-Download https://github.com/genshindev316/SwapMetaBlock/contracts/SwapTokens.sol and deploy this contract with Remix.
+Download https://github.com/genshindev316/SwapMetaBlock/blob/main/contracts/SwapTokens.sol and deploy this contract with Remix.
 
 ##How to contact me.
 
