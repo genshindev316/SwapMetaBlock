@@ -1,5 +1,7 @@
 # Swap MetaBlock Tokens with other ERC20 tokens
+
 Hello!
+
 This repository is for swap smart contract to swap between MBT(ERC404) tokens with other ERC20 tokens.
 This is Hardhat project but test and deploy scripts are not completed yet. I am working on them but it will take some time.
 But the smart contract is deployed on mainnet and tested already. It work well now.
@@ -8,7 +10,9 @@ But the smart contract is deployed on mainnet and tested already. It work well n
 
 Download SwapTokens.sol from https://github.com/genshindev316/SwapMetaBlock/contracts/SwapTokens.sol and deploy this contract with Remix.
 
-###If there is any question, please feel free to contact me!
+##How to contact me.
+
+If there is any question, please feel free to contact me!
 
 Email: genshindev316@gmail.com
 
