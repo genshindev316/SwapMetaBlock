@@ -5,11 +5,17 @@ This is Hardhat project but test and deploy scripts are not completed yet. I am 
 But the smart contract is deployed on mainnet and tested already. It work well now.
 
 ##Step by step to deploy the swap smart contract yourself.
+
 Download SwapTokens.sol from https://github.com/genshindev316/SwapMetaBlock/contracts/SwapTokens.sol and deploy this contract with Remix.
 
 ###If there is any question, please feel free to contact me!
-##Email: genshindev316@gmail.com
-##Skype: live:.cid.f9806077a25cfe22
-##Telegram: @genshindev316
-##Discord: genshindev316
+
+Email: genshindev316@gmail.com
+
+Skype: live:.cid.f9806077a25cfe22
+
+Telegram: @genshindev316
+
+Discord: genshindev316
+
 
