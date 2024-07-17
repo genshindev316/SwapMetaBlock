@@ -1,13 +1,5 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+# Swap MetaBlock Tokens with other ERC20 tokens
+Hello!
+This repository is for swap smart contract to swap between MBT(ERC404) tokens with other ERC20 tokens.
+This is Hardhat project but test and deploy scripts are not completed yet. I am working on them but it will take some time.
+But the smart contract is deployed on mainnet and tested already. It work well now.
