@@ -10,15 +10,6 @@ But the smart contract is deployed on mainnet and tested already. It work well n
 
 Download https://github.com/genshindev316/SwapMetaBlock/blob/main/contracts/SwapTokens.sol and deploy this contract with Remix.
 
-##How to contact me.
 
-If there is any question, please feel free to contact me!
-
-
-Skype: live:.cid.f9806077a25cfe22
-
-Telegram: @genshindev316
-
-Discord: genshindev316
 
 
